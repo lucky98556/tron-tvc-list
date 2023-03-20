@@ -1,3 +1,23 @@
-[
-    
-]
+{
+      "address": "TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49",
+      "symbol": "DFG",
+      "name": "DFG",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TDcep6TUw5b1CYnccQqadEb7iXf49PqJ49.png",
+      "homepage": "https://www.dfg.la",
+      "MarketCapLink": "https://coinmarketcap.com/dexscan/tron/TRjAiDf6VC5Qte2LtAQxBFtszy9LKxUzM4/",
+      "existingMarkets": [
+          {
+              "source": "SunSwap V1",
+              "pairs": [
+                  "DFG/TRX"
+              ]
+          },
+		  {
+              "source": "SunSwap V2",
+              "pairs": [
+                  "DTC/DFG"
+              ]
+          }
+    ]
+}
